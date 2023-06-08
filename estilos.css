@@ -1,0 +1,12 @@
+.container {
+    background-color: aqua;
+    border: 2px solid red;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+}
+
+.item {
+    background-color: darkorange;
+    border: 1px solid black;
+    font-size: 100px;
+}
